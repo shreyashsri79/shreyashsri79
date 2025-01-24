@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/shreyashsri79/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <h2>Hi 👋! Iam Shreyash Neeraj</h2>
 
 <div align="left">
@@ -74,13 +73,7 @@
     </p>
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+<img src = "https://i.pinimg.com/originals/d2/6c/c7/d26cc781b9f4a5a1b1a66bfe71fd4cd0.gif">
 
 <br clear="both">
 
