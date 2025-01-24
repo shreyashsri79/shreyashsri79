@@ -11,18 +11,26 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div>
+<table>
+  <tr>
+    <td>
+      <div>
     <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
     <h4>
         Full-stack developer skilled in Android and web technologies. Crafting innovative, user-focused solutions that drive growth, enhance engagement, and streamline operations. Passionate about transforming ideas into impactful digital experiences.
     </h4>
 </div>
-
-
-<div align="center">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyashsri79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashsri79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+    </td>
+  </tr>
+</table>
 
 
 <div align="left">
@@ -73,7 +81,7 @@
     </p>
 </div>
 
-<img src = "https://i.pinimg.com/originals/d2/6c/c7/d26cc781b9f4a5a1b1a66bfe71fd4cd0.gif">
+<img src = "https://i.imgur.com/ZAmY2M9.gif">
 
 <br clear="both">
 
