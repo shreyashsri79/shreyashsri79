@@ -1,8 +1,9 @@
 name: Generate Datas
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *" # Fixed cron syntax
   workflow_dispatch:
+
 jobs:
   build:
     name: Jobs to update datas
@@ -10,9 +11,12 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
-        id: snake-gifwith:
-          github_user_name: thepiyushmalhotra
+        id: snake-gif
+        with: # Fixed indentation and colon placement
+          github_user_name: shreyashsri79
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
