@@ -7,7 +7,7 @@
   <a href="mailto:shreyashn.dev@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linktr.ee/shreyashn.dev">
+  <a href="https://portfolio-tech-nu.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=39E09B&logoColor=white&style=for-the-badge" height="35" alt="portfolio link" />
   </a>
 </div>
