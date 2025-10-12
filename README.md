@@ -28,12 +28,20 @@
   <tr>
     <td>
       <div>
-        <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashsri79&layout=compact&langs_count=6&theme=radical" height="150" />
       </div>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashsri79&theme=swift" alt="Top Langs" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyashsri79&theme=swift" alt="Most Used" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashsri79&theme=swift" alt="Profile Summary" />
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</p>
 
 ---
 
@@ -88,6 +96,7 @@
 
 ---
 
-<img src="https://i.imgur.com/ZAmY2M9.gif" width="100%">
+<img src = "https://i.pinimg.com/originals/d2/6c/c7/d26cc781b9f4a5a1b1a66bfe71fd4cd0.gif">
+
 
 <br clear="both">
