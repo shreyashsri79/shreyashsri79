@@ -32,7 +32,6 @@
     </td>
   </tr>
 </table>
-
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashsri79&theme=swift" alt="Top Langs" />
   &nbsp;
@@ -40,7 +39,6 @@
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashsri79&theme=swift" alt="Profile Summary" />
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
 
 ---
