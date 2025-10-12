@@ -1,92 +1,93 @@
-<h2 align="center">Hi 👋, I'm <span style="color:#00ADB5;">Shreyash Neeraj</span></h2>
+<h2>Hey 👋 I'm Shreyash Neeraj</h2>
 
-<p align="center">
-  <i>
-    Spring Boot backend developer | Full-stack engineer with Android & Web experience.<br>
-    I build fast, scalable, and user-centric applications powered by modern backend systems.<br>
-    Passionate about clean architecture, real-world impact, and developer communities.
-  </i>
-</p>
----
-
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
+<div align="left">
   <a href="https://discord.gg/MMvZJ9vf">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:shreyashn.dev@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://linktr.ee/shreyashn.dev">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=39E09B&logoColor=white&style=for-the-badge" height="35" alt="portfolio link" />
   </a>
-</p>
+</div>
+
+<table>
+  <tr>
+    <td>
+      <div>
+        <img align="right" height="160" src="https://i.imgur.com/4ASafy0.gif" />
+        <h4>
+          Backend & Mobile Developer skilled in building scalable systems with Node.js, React Native, and cloud-native tools. 
+          Experienced in e-commerce, real-time systems, and hackathon-driven innovation. 
+          Focused on creating reliable, performance-optimized digital ecosystems.
+        </h4>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashsri79&layout=compact&langs_count=6&theme=radical" height="150" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">⚙️ Tech Stack</h3>
+<div align="left">
+  <h3>🧠 Programming Languages</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+  </p>
 
-<h4 align="center">👨‍💻 Languages</h4>
+  <h3>🧩 Libraries & Frameworks</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
+    <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" title="Kotlin" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS" />
-</p>
+  <h3>⚙️ Tools & Platforms</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"  />
+    <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" />
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" height="40" />
+  </p>
 
-<h4 align="center">⚒️ Frameworks & Libraries</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="40" title="Spring Boot" />
-  &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png" width="40" title="Express.js" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" title="React" />
-</p>
-
-<h4 align="center">🧰 Tools & Platforms</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" title="Android" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyashsri79&theme=swift" alt="Top Langs" />
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyashsri79&theme=swift" alt="Most Used" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyashsri79&theme=swift" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyashsri79&theme=swift&utcOffset=8" alt="Productive Time" />
-  &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyashsri79&theme=swift" alt="Stats" />
-</p>
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" />
+  </p>
+</div>
 
 ---
+
+<img src="https://i.imgur.com/ZAmY2M9.gif" width="100%">
+
+<br clear="both">
